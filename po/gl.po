@@ -479,3 +479,4 @@ msgstr "A cadea de formato é: %s\n"
 
 #~ msgid "%s: %s\n"
 #~ msgstr "%s: %s\n"
+1

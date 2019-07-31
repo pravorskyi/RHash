@@ -475,3 +475,4 @@ msgstr "La cadena de format és: %s\n"
 
 #~ msgid "%s: %s\n"
 #~ msgstr "%s: %s\n"
+1
